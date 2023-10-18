@@ -16,6 +16,8 @@ White hot and passionate is the only thing to be.
 
 [**ZUPZUP**](https://github.com/Team-JubJub) <sub><sup>Android Developer | 우리 동네 마감할인 서비스, '줍줍' (2023.04 ~ now) 🔥</sup></sub>  
 
-[**PNU-TayoTayo**](https://github.com/PNU-TayoTayo) <sub><sup>Hyperledger Fabric | 스마트시티 블록체인 기반 공유 모빌리티 서비스, '타요타요' (2023.04 ~ now) 🔥</sup></sub>  
+[**PNU-TayoTayo**](https://github.com/PNU-TayoTayo) <sub><sup>Hyperledger Fabric | 스마트시티 블록체인 기반 공유 모빌리티 서비스, '타요타요' (2023.04 ~ 2023.10)</sup></sub>  
 
-[**TU Darmstadt**](https://www.informatik.tu-darmstadt.de/fb20) <sub><sup>Exchange programmes | Fachbereich Informatik (2023.09 ~ 2024.02)</sup></sub>  
+**2023 부산 b-space 블록체인 해커톤** <sub><sup>Shared Mobility Service on Hyperledger Fabric and Hyperledger Indy (2023.10.11) 🥈 </sup></sub>  
+
+[**TU Darmstadt**](https://www.informatik.tu-darmstadt.de/fb20) <sub><sup>Exchange programmes | Fachbereich Informatik (2023.09 ~ 2024.02) 🔥</sup></sub>  
